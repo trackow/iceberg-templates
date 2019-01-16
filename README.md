@@ -20,7 +20,7 @@ A Jupyter notebook detailing the process can be found [here](https://github.com/
 
 *(4) Since Amery has been resolved in coarse models, it should be in a "not too large" region.  B-C and C-Cp are put together since they are at -and slightly upstream of- the Kerguelen Plateau. These two regions feed into the Amery Ice Shelf*
 
-*(3) The region Ap-B is at the dynamic coastal current entry to the Weddell Gyre. However, it probably has low calving rates and is clearly upstream of the Kerguelen Plateau.*
+*(3) The region Ap-B is at the dynamic coastal current entry to the Weddell Gyre. However, it probably has low calving rates and is clearly upstream (TR: downstream?) of the Kerguelen Plateau.*
 
 
 **Rignot, E., J. Mouginot, and B. Scheuchl, 2011a**. *Antarctic Grounding Line Mapping from Differential Satellite Radar Interferometry*, Geophysical Research Letters, 38, L10504, DOI: 10.1029/2011GL047109
