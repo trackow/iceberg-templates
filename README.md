@@ -7,6 +7,11 @@ A Jupyter notebook detailing the process can be found [here](https://github.com/
 **Ten (ID 0-9) release regions are defined here as follows**. Ice sheets, as in Antarctica, are divided in drainage basins. The IMBIE basins (http://imbie.org/imbie-2016/drainage-basins/) are commonly used. There are differences between basin definitions (http://homepages.see.leeds.ac.uk/~earkhb/Basins_page.html). The most recent version, also known as "IMBIE 2" or "IMBIE 2016" data set, has been defined by E. Rignot, J. Mouginot, and B. Scheuchl (2011a).
 
 
+
+![Sketch for the ten source regions](./Imbie2_Basins_Antarctica.png)
+
+
+
 *CR's thoughts for the boundaries of the regions (3), (4), (5), (6):*
 
 *(6) Ross Ice Shelf and Basin Dp-E are put together since Dp-E has a low rate according to our former figure. Also in a much colder world, an extended Ross Ice Shelf could be supplied by Dp-E.*
