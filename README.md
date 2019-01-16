@@ -1,7 +1,7 @@
 # iceberg-templates
 ## Compute iceberg PDFs (spatio-temporal templates) for distributing solid freshwater from land over the ocean in climate models
 
-A Jupyter notebook detailing the process can be found [here](https://github.com/trackow/iceberg-templates/blob/master/compute_iceberg_PDFs_sectorsLONLAT.ipynb).
+A Jupyter notebook detailing the process can be found [here](https://github.com/trackow/iceberg-templates/blob/master/compute_iceberg_PDFs_sectorsLONLAT.ipynb). As a next step, another version of the patterns could be based on the modelled meltrates, not just on simple counting of icebergs.
 
 
 **Ten (ID 0-9) release regions are defined here as follows**. Ice sheets, as in Antarctica, are divided in drainage basins. The IMBIE basins (http://imbie.org/imbie-2016/drainage-basins/) are commonly used. There are differences between basin definitions (http://homepages.see.leeds.ac.uk/~earkhb/Basins_page.html). The most recent version, also known as "IMBIE 2" or "IMBIE 2016" data set, has been defined by E. Rignot, J. Mouginot, and B. Scheuchl (2011a).
